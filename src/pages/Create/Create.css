@@ -1,0 +1,48 @@
+
+.crcrccrrc{
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.ceraet{
+    width: 300px;
+    height: 350px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.ceraet input,textarea{
+    padding: 5px 13px;
+    outline: none;
+    border-radius: 8px;
+    border: none;
+}
+.labels{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+label{
+    color: white;
+}
+.imgs-create{
+    display: flex;gap: 5px;
+}
+.imgs-create button{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.ceraet > button{
+    width: 150px;
+    height: 25px;
+    border-radius: 8px;
+    border: none;
+}

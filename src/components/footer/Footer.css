@@ -1,0 +1,16 @@
+.footer{
+    width: 100%;
+    height: 115px;
+    background-color: black;
+}
+.footer-box{
+    display: flex;
+    height: 115px;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+.footer-box p{
+    color: #fff;
+    font-size: 14px;
+}
