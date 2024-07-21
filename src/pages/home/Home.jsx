@@ -18,8 +18,8 @@ function Home({setData2}) {
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         <Link to={'/create'} ><button>Add Product</button></Link>
                         <div className="header-box">
-                            <img className='header-img1' src="./public/imgs/Background.png" alt="" />
-                            <img src="./public/imgs/satr.png" alt="" className="hader-img2" />
+                            <img className='header-img1' src="./imgs/Background.png" alt="" />
+                            <img src="./imgs/satr.png" alt="" className="hader-img2" />
                             <p>Low <br />  prices</p>
                         </div>
                     </div>
